@@ -4,7 +4,7 @@
 Blogspot Blog : https://unity-devlog.blogspot.com
 Google Play Store: https://play.google.com/store/apps/details?id=com.g1company.thecastle
 
-Software Development Practice II (2/2565) Group 1
+Software Development Practice II (2/2565) Group 1                                                                                               
 Sirapop Huangwilai 6401012630132                                      
 [![Github Badge](https://img.shields.io/badge/-sirapopModel-333?style=flat&logo=Github&logoColor=white)](https://github.com/sirapopModel)
 
